@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player Projectile
+  - Ice Letters
+  - Water Projectile
+  - Fire Letters
+  - Fire Projectile
+  - Letters
+  - Fire
+  - Environment
+  - InventoryUI
+  - RuneCounter
+  - BlueRune
+  - RedRune
+  - PurpleRune
+  - GreenRune
+  - ItemSlot0
+  - ItemSlot1
+  - ItemSlot2
+  - ItemSlot3
+  - UI Letter
+  - Word
+  - ButtonText
+  - Event System
+  - Platform
+  - Altar
+  - Altar Button
+  - AltarArea
+  - Crosshair
+  - Altar Text
+  - Green Rune Cube
+  - Green Wand Power
+  - GreenCubeAreaCollider
+  - Green Particles
+  - Shooter
+  - WordDescription
+  - Light
+  - Enter
+  - Backspace
+  - Change Scene
+  - ItemSlot4
+  - GreenCubeAreaDetector
+  - Purple Rune Cube
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Fire Projectile
+  - Water Projectile
+  - Fire Block
+  - Water Block
+  - Pickups
+  - Green Block
+  - Environment
+  - Green Projectile
+  - Green Area
+  - Purple Block
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 36233989
+    locked: 0
+  - name: BUttons
+    uniqueID: 4019951867
+    locked: 0
